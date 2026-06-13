@@ -1,4 +1,8 @@
 [README.md](https://github.com/user-attachments/files/28911800/README.md)
+# Chessgame
+
+Console Chess Game written in java
+
 # ♟️ Advanced Chess Game - Java
 
 ## 📌 Project Overview
